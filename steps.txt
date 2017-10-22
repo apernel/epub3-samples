@@ -1,0 +1,14 @@
+Copy folders into project
+Take screenshot of page 1
+convert from png to jpg
+pull cover image from email
+resize cover image (1000 height shortest side I think)
+change title in package.opf
+change cover filename in package.opf
+change cover filename in cover.html file
+change title in Index_Ebooks file
+run script to rename and replace
+change subchapters in Index_Ebooks file
+Copy new files into folder
+Copy filenames into package.opf
+Add any additional image references in package.opf to manifest only
