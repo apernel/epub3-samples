@@ -1,9 +1,9 @@
 #!/bin/bash
 
-for dir in `ls "30"`
+for dir in `ls "StudyJesus"`
 do   
   echo -e "\n<<<<<< $dir >>>>>>"  
-  if [ -d "30/$dir" ]; then
-    sh pack-single.sh 30/$dir
+  if [ -d "StudyJesus/$dir" ]; then
+    sh pack-single.sh StudyJesus/$dir
   fi
 done
